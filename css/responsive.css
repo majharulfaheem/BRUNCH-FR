@@ -1,0 +1,508 @@
+/*
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+ .navbar-light .navbar-toggler-icon{
+   background-image: none;
+   color: #a9b2b7;
+   margin-top: 10px;
+ }
+ .head{
+   height: 530px;
+ }
+ .head .ban{
+   padding: 0px;
+   width: 100%;
+   margin-top: 75px;
+ }
+.ban h3{
+  padding-top: 20px;
+  font-size: 37px;
+}
+.ban h1{
+  font-size: 24px;
+  margin-top: -10px;
+}
+.ban .btn{
+  font-size: 12px;
+  padding: 7px 15px;
+  margin-bottom: 20px;
+}
+.tradition{
+  padding: 40px 0px;
+}
+.trad{
+  margin-top: 0px;
+}
+.trad h2{
+  font-size: 24px;
+}
+.trad p{
+  font-size: 10px;
+  line-height: 20px;
+}
+.menu{
+  text-align: center;
+}
+.inner-content p {
+  font-size: 16px;
+}
+.india h3{
+  padding-top: 25px;
+}
+
+.in-menu h3{
+  margin-top: 25px;
+}
+.three{
+  margin-top: 20px;
+}
+.cuisine{
+  padding: 40px 0px;
+}
+.cuisine h2{
+  font-size: 20px;
+}
+.cuisine p{
+  font-size: 15px;
+}
+.menu-list img{
+  margin-left: -48px;
+}
+.menu-list ul li p{
+  margin-left: 59px;
+}
+.right{
+  margin-left: 0px;
+}
+.booking{
+  padding: 40px 0px;
+}
+.booking .form-control{
+  width: 100%;
+}
+.discover{
+  padding: 40px 0px;
+}
+.tan h3{
+  font-size: 40px;
+}
+.tan h1{
+  font-size: 27px;
+}
+.card .card-start{
+  margin-left: 10px;
+}
+.card-title {
+  font-size: 23px;
+  font-weight: 700;
+  margin-left: 10px;
+}
+.card-text {
+  font-size: 16px;
+  margin-left: 10px;
+}
+.card .btn{
+  margin-left: 0px !important;
+}
+.testimonial{
+  padding: 40px 0px;
+}
+.test .fa-quote-left{
+  font-size: 25px;
+}
+.test p{
+  font-size: 15px;
+}
+.test ul li a{
+  height: 30px;
+  width: 30px;
+  padding: 1px;
+  margin-left: 7px;
+}
+.footer{
+  padding: 40px 0px;
+}
+.f-one h4{
+  text-align: center;
+}
+.f-one p{
+  font-size: 17px;
+}
+.f-two{
+  text-align: center;
+  margin-top: 30px;
+}
+}
+
+/*
+  ##Device = Low Resolution Tablets, Mobiles (Landscape)
+  ##Screen = B/w 481px to 767px
+*/
+
+@media (min-width: 481px) and (max-width: 767px) {
+.navbar-light .navbar-toggler-icon{
+  background-image: none;
+  color: #a9b2b7;
+  margin-top: 10px;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 23px;
+  font-weight: 700;
+  margin-right: 18px;
+  text-align: right;
+}
+.head{
+  height: 630px;
+}
+.head .ban{
+  padding: 0px;
+  width: 100%;
+  margin-top: 135px;
+}
+.ban h3{
+  padding-top: 20px;
+}
+.ban .btn{
+  margin-bottom: 20px;
+}
+.tradition{
+  padding: 40px 0px;
+}
+.trad{
+  margin-top: 0px;
+}
+.trad h2 {
+  color: #ffff;
+  font-size: 38px;
+}
+.trad p{
+  font-size: 25px;
+}
+.inner-content h4{
+  font-size: 30px;
+}
+.inner-content p{
+  font-size: 25px;
+}
+.menu{
+  text-align: center;
+}
+.india h3{
+  font-size: 80px;
+}
+.india h1{
+  font-size: 40px;
+}
+.in-menu{
+  text-align: center;
+}
+.ind{
+  text-align: center;
+}
+.in-menu h3{
+  font-size: 30px;
+}
+.in-menu .details{
+  font-size: 20px;
+}
+.in-menu .price{
+  font-size: 20px;
+}
+.three{
+  margin-top: 30px;
+}
+.cuisine{
+  padding: 40px 0px;
+}
+.cuisine h2{
+  font-size: 28px;
+}
+.cuisine p{
+  font-size: 23px;
+}
+.cuisine ul li a{
+  margin-left: 22px;
+}
+.cuisine ul{
+  margin-right: 41px;
+}
+.menu-list ul li p{
+  font-size: 15px;
+  line-height: 25px;
+  margin-left: 103px;
+}
+.right{
+  margin-left: 0px;
+}
+.booking{
+  padding: 40px 0px;
+}
+.form-group{
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+.booking .form-control{
+  margin-bottom: 45px;
+  width: 100%;
+}
+.discover{
+  padding: 40px 0px;
+}
+.discover h3{
+  font-size: 55px;
+}
+.discover h1{
+  font-size: 37px;
+}
+.card .card-start{
+  font-size: 23px;
+}
+.card-title{
+  font-size: 28px;
+}
+.card-text{
+  font-size: 22px;
+}
+.testimonial{
+  padding: 40px 0px;
+}
+.test .fa-quote-left{
+  font-size: 30px;
+}
+.test p{
+  font-size: 23px;
+}
+.test h4{
+  font-size: 26px;
+}
+.footer{
+  padding: 40px 0px;
+  text-align: center;
+}
+.f-one h4{
+  text-align: center;
+  font-size: 30px;
+}
+.f-one p{
+  text-align: center;
+  font-size: 22px;
+}
+.f-two{
+  text-align: center;
+}
+.f-two h4{
+  margin-top: 20px;
+  font-size: 26px;
+}
+.f-two ul li a{
+  font-size: 20px;
+}
+}
+
+/*
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+@media (min-width: 768px) and (max-width: 1024px) {
+.navbar-light .navbar-toggler-icon{
+  background-image: none;
+  color: #a9b2b7;
+  margin-top: 10px;
+  font-size: 23px;
+}
+.navbar-light .navbar-nav .nav-link{
+  font-size: 23px;
+  font-weight: 700;
+  margin-right: 18px;
+  text-align: right;
+}
+.head{
+  height: 900px;
+}
+.head .ban{
+  width: 85%;
+}
+.tradition{
+  padding: 80px 0px;
+}
+.trad{
+  margin-top: 0px;
+  text-align: center;
+}
+.trad h2{
+  font-size: 45px;
+}
+.trad p {
+  font-size: 22px;
+  line-height: 32px;
+  margin-bottom: 50px;
+}
+.menu{
+  text-align: center;
+}
+.inner-content{
+  text-align: center;
+}
+.inner-content h4{
+  font-size: 38px;
+}
+.inner-content p{
+  font-size: 30px;
+}
+.india h3{
+  font-size: 80px;
+}
+.india h1{
+  font-size: 45px;
+}
+.ind{
+  text-align: center;
+}
+.in-menu h3{
+  margin-top: 30px;
+  font-size: 30px;
+}
+.in-menu .details{
+  font-size: 23px;
+}
+.in-menu .price {
+font-size: 25px;
+}
+.three{
+  margin-top: 30px;
+}
+.cuisine h2{
+  font-size: 35px;
+}
+.cuisine p{
+  font-size: 20px;
+}
+.cuisine ul li a {
+font-size: 22px;
+}
+.right{
+  margin-left: 0px;
+}
+.new-menu{
+  padding: 168px 0px 0px;
+}
+.menu-list ul li h5{
+  font-size: 25px;
+}
+.menu-list ul li p{
+  font-size: 21px;
+}
+.menu-list{
+  margin-left: 48px;
+}
+.form-group{
+  text-align: center;
+}
+.booking label{
+  margin-bottom: 20px;
+  font-size: 22px;
+}
+.booking .form-control{
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+.sub .btn{
+  margin-top: 20px;
+}
+.card .card-start{
+  font-size: 26px;
+}
+.card-title{
+  font-size: 35px;
+}
+.card-text{
+  font-size: 25px;
+}
+.card .btn{
+  font-size: 22px;
+}
+.test p{
+  line-height: 28px;
+  font-weight: 600;
+}
+.test h4{
+  font-size: 25px;
+}
+.footer{
+  text-align: center;
+}
+.f-one h4{
+  font-size: 38px;
+}
+.f-one p{
+  font-size: 28px;
+}
+.f-two h4{
+  margin-top: 40px;
+  font-size: 33px;
+}
+.f-two ul li a{
+  font-size: 26px;
+}
+}
+/*
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+@media (min-width: 1025px) and (max-width: 1280px) {
+.head .ban{
+  width: 85%;
+}
+.trad{
+  margin-top: 90px;
+}
+.trad p{
+  font-size: 15px;
+  line-height: 28px;
+}
+.inner-content h4{
+  font-size: 25px;
+}
+.inner-content p {
+    font-size: 16px;
+    line-height: 26px;
+}
+.in-menu h3{
+  margin-top: 30px;
+}
+.in-menu .details{
+  font-size: 18px;
+}
+.in-menu .price{
+  font-size: 18px;
+}
+.new-menu{
+  padding: 150px 0px 0px;
+}
+.right{
+  margin-left: 0px;
+}
+.menu-list ul li p{
+  font-size: 14px;
+  line-height: 24px;
+}
+.card .card-start{
+  font-size: 12px;
+}
+.card-title{
+  font-size: 17px;
+}
+.card-text{
+  font-size: 12px;
+}
+.card .btn{
+  font-size: 12px;
+}
+}

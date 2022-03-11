@@ -1,0 +1,467 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  font-family: Raleway !important;
+}
+a, a:hover{
+  text-decoration: none;
+}
+/*********************************************************************************************************************************************header section code starts here*************************/
+.head{
+  width: 100%;
+  background-image: url("../images/back1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 800px;
+}
+.head .bg-light{
+  background-color: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link{
+  color: #d1d5d6 !important;
+  margin-left: 18px;
+  font-size: 25px;
+  font-weight: 600;
+  text-transform: uppercase;
+  transition: 1s;
+}
+.navbar-light .navbar-nav .nav-link:hover{
+  color: #ad6c12 !important;
+}
+.navbar-light .navbar-nav .nav-link.active{
+  color: #ad6c12 !important;
+}
+.head .ban{
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 200px;
+  padding: 100px;
+  background-image: url("../images/trans.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.ban h3{
+  font-family: Cookie;
+  color: #2c3a42;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+.ban h1{
+  font-size: 45px;
+  margin-top: -20px;
+  text-transform: uppercase;
+  color: #ad6c12;
+  font-weight: 600;
+}
+.ban .btn{
+  font-size: 18px;
+  font-weight: 600;
+  margin-top: 10px;
+  padding: 5px 35px;
+  background: #ffff;
+  color: black;
+  text-transform: uppercase;
+  transition: 1s;
+}
+.ban .btn:hover{
+  background: #2c3a42;
+  color: #ad6c12;
+}
+/*********************************************************************************************************************************************header section code ends here*************************/
+
+/*********************************************************************************************************************************************tradition section code starts here*************************/
+.tradition{
+  width: 100%;
+  padding: 80px 0px;
+  background: #2a3b40;
+}
+.trad{
+  margin-top: 100px;
+}
+.trad h2{
+  color: #ffff;
+}
+.trad p{
+ color: #ffff;
+ margin-top: 25px;
+}
+.spice{
+  text-align: center;
+}
+/*********************************************************************************************************************************************tradition section code ends here*************************/
+
+/*********************************************************************************************************************************************dot section code starts here*************************/
+.dot{
+  width: 100%;
+  padding: 50px 0px;
+  background: #d4d8d9;
+}
+.dot .inner-content{
+  width: 100%;
+}
+.inner-content h4{
+  margin-top: 15px;
+  text-transform: capitalize;
+  font-weight: 600;
+}
+.inner-content p{
+  font-size: 20px;
+}
+/*********************************************************************************************************************************************dot section code ends here*************************/
+
+/*********************************************************************************************************************************************menu section code starts here*************************/
+.menu{
+  width: 100%;
+  padding: 80px 0px;
+  background-image: url("../images/back2.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.ind{
+  background-image: url("../images/trans.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+
+}
+.india{
+  text-align: center;
+}
+.india h3{
+  font-family: Cookie;
+  font-size: 60px;
+  text-transform: capitalize;
+  padding-top: 60px;
+}
+.india h1{
+  margin-top: -20px;
+  text-transform: capitalize;
+  color: #ad6c12;
+  margin-bottom: 60px;
+}
+.in-menu{
+  text-align: center;
+}
+.in-menu h3{
+  margin-top: 60px;
+  text-transform: uppercase;
+  color: #304751;
+  font-weight: 600;
+}
+.in-menu .details{
+  color: #304751;
+}
+.in-menu .price{
+  color: #304751;
+  font-weight: 600;
+}
+/*********************************************************************************************************************************************menu section code ends here*************************/
+
+/*********************************************************************************************************************************************cuisine section code starts here*************************/
+.made{
+  width: 100%;
+  background-color: #2a3b40;
+}
+.tra{
+  width: 100%;
+  background-image: url("../images/group5.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.cuisine{
+  padding: 60px 0px;
+  text-align: center;
+}
+.cuisine h2{
+  color: #2a3b40;
+  font-weight: 700;
+}
+.cuisine p{
+  font-size: 18px;
+  color: #2a3b40;
+  margin: 30px 0px;
+}
+.cuisine ul{
+  margin-top: 40px;
+  margin-right: 77px;
+}
+.cuisine ul li{
+  list-style-type: none;
+  display: inline;
+}
+.cuisine ul li a{
+  font-size: 18px;
+  text-decoration: none;
+  color: #2a3b40;
+  font-weight: 700;
+  margin-left: 50px;
+  text-transform: capitalize;
+}
+/*********************************************************************************************************************************************cuisine section code ends here*************************/
+
+/*********************************************************************************************************************************************new menu section code starts here*************************/
+.new-menu{
+  width: 100%;
+  padding: 300px 0px 0px;
+  background-image: url("../images/back3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.new-menu .man{
+  text-align: center;
+  padding-top: 30px;
+}
+.man h3{
+  font-size: 45px;
+  font-family: Cookie;
+  text-transform: uppercase;
+  color: #2a3b40;
+}
+.man h1{
+  text-transform: uppercase;
+  color: #ad6c12;
+  font-size: 40px;
+}
+.white{
+  background-image: url("../images/trans.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.menu-list ul li{
+  list-style-type: none;
+  display: inline;
+}
+.menu-list ul li h5{
+  display: inline;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #2a3b40;
+}
+.menu-list ul li p{
+  margin-top: -46px;
+  margin-bottom: 1rem;
+  margin-left: 100px;
+  color: #2a3b40;
+  font-weight: 500;
+}
+.menu-list img{
+margin-right: 15px;
+margin-top: 48px;
+}
+.right{
+ margin-left: 60px;
+}
+/*********************************************************************************************************************************************new menu section code ends here*************************/
+.b-im img{
+  width: 100%;
+}
+/*********************************************************************************************************************************************bowl section code ends here*************************/
+
+/*********************************************************************************************************************************************booking section code starts here*************************/
+.booking{
+  width: 100%;
+  padding: 80px 0px;
+  background: #2a3b40;
+}
+.booking .b-head{
+  text-align: center;
+  margin-bottom: 30px;
+}
+.b-head h1{
+  font-size: 50px;
+  font-family: Cookie;
+  text-transform: uppercase;
+  color: #ffff;
+}
+.booking label{
+  color: #ffff;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+}
+.booking .form-control{
+  background: transparent;
+  border: 2px xolid #ffff;
+  border-radius: 5px;
+  margin-bottom: 60px;
+  width: 80%;
+  color: #ffff;
+}
+.booking .form-control:focus{
+  background: transparent;
+  box-shadow: none;
+  border: 1px solid #ffff;
+}
+.booking .form-control-sm{
+  color: #ffff;
+}
+.booking .sub{
+  text-align: center;
+}
+.sub .btn{
+  padding: 5px 60px;
+  font-size: 16px;
+  color: #ffff;
+  font-weight: 600;
+  text-transform: uppercase;
+  border: 1px solid #ffff;
+  border-radius: 10px;
+  transition: 1s;
+}
+.sub .btn:hover{
+  background: #ffff;
+  color: #2a3b40;
+}
+/*********************************************************************************************************************************************booking section code ends here*************************/
+
+/*********************************************************************************************************************************************bowl2 section code starts here*************************/
+ .bowl-two{
+   width: 100%;
+ }
+ .bowl-two img{
+   width: 100%;
+ }
+/*********************************************************************************************************************************************bowl2 section code ends here*************************/
+
+/*********************************************************************************************************************************************card section code starts here*************************/
+.discover{
+  width: 100%;
+  padding: 80px 0px;
+  background: #d4d8d9;
+}
+.discover .tan{
+  text-align: center;
+}
+.tan h3{
+  font-family: Cookie;
+  color: #2c3a42;
+  font-size: 60px;
+  text-transform: uppercase;
+}
+.tan h1{
+  font-size: 45px;
+  text-transform: uppercase;
+  color: #ad6c12;
+  font-weight: 600;
+}
+.discover .card{
+  margin-top: 60px;
+}
+.card .card-start{
+  font-size: 18px;
+  font-weight: 600;
+  margin-left: 35px;
+}
+.card-title{
+  font-size: 25px;
+  font-weight: 700;
+  margin-left: 35px;
+}
+.card-text{
+  font-size: 18px;
+  margin-left: 35px;
+}
+.card .btn{
+  margin-left: 23px;
+  background: transparent;
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+  text-transform: uppercase;
+  padding-bottom: 1px;
+  border: none;
+}
+.card .btn:hover{
+  border-bottom: 5px solid #ff992b;
+  background: transparent;
+  color: black;
+}
+/*********************************************************************************************************************************************card section code ends here*************************/
+
+/*********************************************************************************************************************************************testimonial section code starts here*************************/
+.testimonial{
+  width: 100%;
+  padding: 80px 0px;
+  background: #2a3b40;
+}
+.test{
+  text-align: center;
+}
+.test .fa-quote-left{
+  font-size: 40px;
+  color: #ffff;
+}
+.test p{
+  margin: 30px 0px;
+  color: #ffff;
+  font-size: 18px;
+}
+.test h4{
+  color: #ffff;
+  text-transform: capitalize;
+  font-size: 22px;
+}
+.test ul{
+  margin-top: 40px;
+  margin-right: 40px;
+}
+.test ul li{
+  list-style-type: none;
+  display: inline;
+}
+.test ul li a{
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  font-size: 18px;
+  padding: 6px;
+  border: 1px solid #ffff;
+  border-radius: 100%;
+  background: #ffff;
+  color: #2a3b40;
+  margin-left: 15px;
+}
+/*********************************************************************************************************************************************testimonial section code ends here*************************/
+
+/*********************************************************************************************************************************************footer section code starts here*************************/
+.footer{
+  width: 100%;
+  padding: 80px 0px;
+  background: #d4d8d9;
+}
+.f-one h4{
+ text-transform: uppercase;
+ font-weight: 700;
+}
+.f-one p{
+  font-size: 19px;
+  margin-top: 30px;
+}
+.f-two h4{
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 16px;
+}
+.f-two ul{
+  padding: 0px;
+  margin-top: 30px;
+}
+.f-two ul li{
+  list-style-type: none;
+}
+.f-two ul li a{
+  text-transform: uppercase;
+  font-weight: 600;
+  text-decoration: none;
+  color: black;
+  margin-bottom: 15px;
+}
+/*********************************************************************************************************************************************footer section code ends here*************************/
